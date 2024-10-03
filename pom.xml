@@ -55,7 +55,7 @@
             <artifactId>postgresql</artifactId>
             <version>42.3.8</version>
         </dependency>
-
+  
         <!-- Camel Rest DSL Starter -->
         <dependency>
             <groupId>org.apache.camel.springboot</groupId>
