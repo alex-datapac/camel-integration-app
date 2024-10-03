@@ -1,0 +1,25 @@
+# Maven target directory
+target/
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE directories and files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+
+# Sensitive configuration files
+src/main/resources/application.properties
