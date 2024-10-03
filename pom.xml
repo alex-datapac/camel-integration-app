@@ -53,8 +53,8 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.3.8</version>
-        </dependency>
+            <version>42.6.0</version>
+        </dependency>      
   
         <!-- Camel Rest DSL Starter -->
         <dependency>
